@@ -13,7 +13,7 @@ The BaroniTK Organization is dedicated to software development, focusing on crea
 
 ## Main Projects
 - **Fondamenti App**: An application that solves all exercises related to Mathematical Foundations for Computer Science.
-- **Project 2**: Description of project 2.
+- **Probabilità App**: An application that gathers all the probability exercises from the DoExercise platform.
 
 ## Contact
 - **Email**: [baroni.buildati@gmail.com](mailto:baroni.buildati@gmail.com)
