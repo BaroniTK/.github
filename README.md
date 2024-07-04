@@ -1,7 +1,7 @@
 # Welcome to the BaroniTK Organization
 
 <img
-  src="https://i.imgur.com/wg8cTLn.png"
+  src="https://i.imgur.com/0qrm8iB.png"
   alt="Logo"
   width="256"
   height="auto"
