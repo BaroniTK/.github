@@ -19,4 +19,4 @@ The BaroniTK Organization is dedicated to software development, focusing on crea
 - **Email**: [baroni.buildati@gmail.com](mailto:baroni.buildati@gmail.com)
 
 ## License
-This project is licensed under the BaroniTK License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the BaroniTK License - see the [LICENSE](LICENSE.md) file for details.
